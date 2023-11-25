@@ -3,6 +3,7 @@ body{
 	padding: 0;
 	font-family: PixelFont;
 }
+
 *{
 	box-sizing: border-box;
 	outline: none!important;
@@ -52,6 +53,7 @@ width: 100%;
 /* background-color: rgba(0,0,0,.5); */
 z-index: 1;
 }
+
 .login-page .box{
 	position: absolute;
 	left: 50%;
@@ -107,4 +109,3 @@ flex-direction: column;
 
 
 @font-face { font-family: PixelFont; src: url('../fonts/font2.ttf'); } 
-
